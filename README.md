@@ -1,5 +1,6 @@
 # Primeiro-Semestre-UniCeub
 Atualmente estudo Ciencia da Computação
+
 Estou adquirindo mais experiencia na linguagem de programação "C" mas tenho uma leve experiencia em Python e Java.
 
 <div>
