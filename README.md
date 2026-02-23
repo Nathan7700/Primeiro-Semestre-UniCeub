@@ -1,4 +1,4 @@
-Atualmente estudo Ciencia da Computação
+Estudante de Ciencia da Computação
 
 Estou adquirindo mais experiencia na linguagem de programação "C" mas tenho um pouco de experiencia em Python
 
